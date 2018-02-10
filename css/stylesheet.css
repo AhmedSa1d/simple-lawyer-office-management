@@ -1,0 +1,144 @@
+#logo{
+  font-size: 36px;
+  font-family: open sans;
+  margin-left: 2em;
+  font-weight: bold;
+  display: inline;
+}
+.pagTop{
+  font-size: 18px;
+  font-family: open sans;
+}
+.headCon {
+  font-size: 50px;
+  font-family: open sans;
+  border-radius: 30%;
+  background-color: #222222;
+}
+.headCon a,p{
+   text-decoration: none;
+    color: #C79D62 !important;
+    text-decoration-line: none;
+}
+ .cont{
+ 	font-size: 40px;
+ 	font-family: open-sans;
+ 	font-weight: bold;
+ 	margin: auto;
+ 	text-align: center;
+ 	background-color: #222222;
+  color: #FFFFFF;
+  height: 300px;	
+  line-height: 300px; 
+  max-width: 295px;
+  border-radius: 50%;
+  border:1px solid #000;
+  margin-bottom: 50px;
+  }
+  .message{
+    text-align: center;
+    margin: auto;
+    color: red;
+    font-size: 16px;
+    font-family: open sans;
+  }
+  #errors{
+    text-align: center;
+    margin: auto;
+    color: red;
+    font-size: 16px;
+    font-family: open sans;
+  }
+  .cont a,p{
+    text-decoration: none;
+    color: #FFFFFF;
+    text-decoration-line: none;
+  }
+
+  #toplogo{
+  	margin-bottom: 50px;
+  }
+  .contnt{
+    min-height: 300px;
+    margin-top: 40px;
+  }
+  .contnt p{
+    color: #222222;
+    font-size: 18px;
+    font-family: open sans;
+  }
+  .contnt input{
+    margin-bottom: 10px;
+
+  }
+  .contnt button{
+    margin-bottom: 10px;
+  }
+ ul.ui-autocomplete {
+    color:gray !important;
+    font-size: 18px;
+    background-color: #222222;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+  }
+
+  th{
+    margin: auto;
+    text-align: center;
+  }
+  .tablehead tr,th{
+    font-size: 16px;
+    text-align: center;
+    font-family: open sans;
+  }
+  .formstyle{
+    color: #222222;
+    font-size: 18px;
+    text-align: center;
+    font-family: open sans;
+  }
+  #tabs ul{
+   float: right;
+  }
+  footer{
+  	background-color: #222222;
+  }
+  .foter{
+  	margin-top: 50px;
+  	max-width: 300px;
+  }
+  footer ul {
+  	list-style: none;
+  	font-family: open-sans;
+  	font-size: 18px;
+  	border-right: 2px solid #C79D62;
+  }
+  footer a{
+  	text-decoration: none;
+  	color: #C79D62;
+    text-decoration-line: none;
+  	list-style: none;
+
+  }
+  .social{
+  	max-width: 35px;
+  	max-height: 35px;
+  }
+  #yt {
+   width:22px;
+   height:18px;
+}
+#fc{
+    width:11px;
+    height:22px;
+    
+}
+#tw{
+    width:34px;
+   height:24px;
+}
+  #copyright p{
+  	margin-top: 50px;
+  	color: #FFFFFF;
+  }
+
